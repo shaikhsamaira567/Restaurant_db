@@ -214,3 +214,6 @@ erDiagram
 | `dish_id` | `CHAR(36)` | FK → `dishes` |
 | `variant_id` | `CHAR(36)` | FK → `variants` |
 | `quantity` | `INT` |
+
+⭐ If you found this project useful, please consider giving it a Star!
+Made with ❤️ by Samaira Shaikh
